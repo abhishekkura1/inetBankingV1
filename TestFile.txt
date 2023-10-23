@@ -1,2 +1,0 @@
-This is test file.text created for testing
-This is test file.text modified for testing
